@@ -1,13 +1,11 @@
 # Instagram-auto-like-all-post
 Instagram all post auto like by selenium with python
 
-Twitter account auto create using python with selenium
-
 change 12 line & 13 with username & password and 17 line with your instagram url....
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter ll.py or double click on ll.py or you can rename the file and run
 
-#in ll.py file i added upto 20 posts auto likes if you want another 10 means copy line from 25 to 138 and paste in 140th line(open notepad ++ for no line)
+#here i added upto 25 posts auto likes if you want another 25 posts auto like means then copy line from 25 to 121 and paste in 122th line(open notepad ++ for no line)
 
 👉Note:-
 
