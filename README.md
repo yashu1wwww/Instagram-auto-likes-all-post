@@ -1,6 +1,9 @@
 # Instagram-auto-like-all-post
 Instagram all post auto like by selenium with python
 
+👉Instagram Auto Post Likes
+https://youtu.be/d9Z2u75Nw34
+
 change 12 line & 13 with username & password and 17 line with your instagram url....
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter ll.py or double click on ll.py or you can rename the file and run
